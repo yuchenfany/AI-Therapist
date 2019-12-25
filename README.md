@@ -6,9 +6,11 @@ One of the advantages of CBT, as opposed to many other forms of therapy, is that
 
 Introduction: Our program has a variety of features and we plan to implement more. 
 
-Content Recommendations based on mood -> User will input how his/her day went in a few sentences. Using natural language processing, we will detect how the user is feeling and respond sympathetically as well as use a recommender system to show them content that will help. For example, if the user is feeling anxious/worried we will show them meditation/yoga content, breathing exercises, etc. 
+1. Content Recommendations -> User will input how his/her day went in a few sentences. Using natural language processing, we will detect how the user is feeling and respond sympathetically as well as use a recommender system to show them content that will help. For example, if the user is feeling anxious/worried we will show them meditation/yoga content, breathing exercises, etc. 
 
-CBT -> We have a customized plan tailored to treat anxiety and depression using cognitive behavioral therapy tools. The user is guided through a series of lessons to effectively target symptoms & learn new lessons. 
+2. CBT Program -> We have a customized plan tailored to treat anxiety and depression using cognitive behavioral therapy tools. The user is guided through a series of lessons to effectively target symptoms & learn new lessons. 
 
-Chatbot -> Simple chat system where bot will respond sympathetically to any user input. 
+3. Chatbot -> Simple chat system where bot will respond sympathetically to any user input. 
+
+
 
