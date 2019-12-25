@@ -10,7 +10,5 @@ Introduction: Our program has a variety of features and we plan to implement mor
 
 2. CBT Program -> We have a customized plan tailored to treat anxiety and depression using cognitive behavioral therapy tools. The user is guided through a series of lessons to effectively target symptoms & learn new lessons. 
 
-3. Chatbot -> Simple chat system where bot will respond sympathetically to any user input. 
-
 
 
